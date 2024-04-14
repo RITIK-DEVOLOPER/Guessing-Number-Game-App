@@ -1,4 +1,7 @@
 {
   "name": "GuessNumber",
-  "displayName": "GuessNumber"
+  "displayName": "GuessNumber",
+  "plugins": [
+    "expo-font"
+  ]
 }
